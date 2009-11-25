@@ -1,0 +1,5 @@
+= Установка дистрибутива =
+
+include::boot.txt[]
+
+include::install-intro.txt[]
