@@ -27,10 +27,11 @@ chunked: $(TOPLEVEL_DOC)
 
 pdf: $(TOPLEVEL_DOC)
 	$(A2X) --fop --fop-opts='-c fop.xconf' -d book -f pdf -a lang=ru \
-	  --xsltproc-opts='--stringparam toc.max.depth 2' \
-	  --xsltproc-opts='--stringparam title.font.family "Liberation Sans"' \
-	  --xsltproc-opts='--stringparam body.font.family "Liberation Sans"' \
-	  --xsltproc-opts='--stringparam monospace.font.family "Liberation Mono"' \
+	  --xsltproc-opts=' \
+	  --stringparam toc.max.depth 2 \
+	  --stringparam title.font.family "Liberation Sans" \
+	  --stringparam body.font.family "Liberation Sans" \
+	  --stringparam monospace.font.family "Liberation Mono"' \
 	  $<
 
 install: all
