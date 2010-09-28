@@ -2,4 +2,28 @@
 
 include::boot.txt[]
 
+include::alternative-install.txt[]
+
 include::install-intro.txt[]
+
+include::sysconfig.txt[]
+
+include::license.txt[]
+
+include::datetime.txt[]
+
+include::vm.txt[]
+
+include::pkg.txt[]
+
+include::installer-preinstall.txt[]
+
+include::grub.txt[]
+
+include::installer-network.txt[]
+
+include::users-root.txt[]
+
+include::users-add.txt[]
+
+include::release-notes.txt[]

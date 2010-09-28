@@ -1,0 +1,9 @@
+= (SERVERDISTRO) =
+ALT Docs Team <docs@packages.altlinux.org>
+v6.0-alt1, Sep 2010
+
+= Введение =
+
+Этот документ описывает дистрибутив **(SERVERDISTRO)**.
+
+include::install-guide/index.txt[]

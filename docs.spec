@@ -1,5 +1,5 @@
-%define variant variant
-%define Variant Variant
+%define variant centaurus
+%define Variant Centaurus
 
 %define _documentationdir %_defaultdocdir/documentation
 %define _docsinstalldir %_defaultdocdir/%variant

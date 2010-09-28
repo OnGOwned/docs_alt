@@ -1,4 +1,4 @@
-PROJECT = VARIANT
+PROJECT = centaurus
 TOPLEVEL_DOC = index.txt 
 HTMLPAGE = $(TOPLEVEL_DOC:.txt=.html)
 RESOURCE_FILES = /etc/asciidoc/
