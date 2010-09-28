@@ -1,6 +1,7 @@
 PROJECT = VARIANT
 TOPLEVEL_DOC = index.txt 
 HTMLPAGE = $(TOPLEVEL_DOC:.txt=.html)
+RESOURCE_FILES = /etc/asciidoc/
 
 docdir = /usr/local/share/doc/$(PROJECT)
 DESTDIR =
@@ -15,7 +16,7 @@ all: $(HTMLPAGE)
 
 %.html: %.txt
 	$(A2X) -d book -f xhtml -a lang=ru \
-	  --icons -r /etc/asciidoc/ -r ./ \
+	  --icons -r $(RESOURCE_FILES) -r ./ \
 	  --xsltproc-opts='--stringparam toc.max.depth 2' \
 	  $<
 
