@@ -1,9 +1,17 @@
-= (SERVERDISTRO) =
+= (DISTRO) =
 ALT Docs Team <docs@packages.altlinux.org>
 v6.0-alt1, Sep 2010
 
 = Введение =
 
-Этот документ описывает дистрибутив **(SERVERDISTRO)**.
+Этот документ описывает дистрибутив **(DISTRO)**.
+
+= Что такое (DISTRO) =
+
+include::whatis-centaurus/index.txt[]
+
+include::whatis-linux/index.txt[]
+
+include::whatis-alt/index.txt[]
 
 include::install-guide/index.txt[]
