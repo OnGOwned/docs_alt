@@ -1,0 +1,17 @@
+= (DISTRO) =
+ALT Docs Team <docs@packages.altlinux.org>
+v0.1-alt1, Jan 2010
+
+= Введение =
+
+Этот документ описывает дистрибутив **(DISTRO)**.
+
+= Что такое (DISTRO) =
+
+include::whatis-distro/index.txt[]
+
+include::whatis-linux/index.txt[]
+
+include::whatis-alt/index.txt[]
+
+include::install-guide/index.txt[]
