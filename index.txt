@@ -15,3 +15,7 @@ include::whatis-linux/index.txt[]
 include::whatis-alt/index.txt[]
 
 include::install-guide/index.txt[]
+
+= Настройка системы =
+
+include::system-management/index.txt[]
