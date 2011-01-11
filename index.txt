@@ -16,6 +16,8 @@ include::whatis-alt/index.txt[]
 
 include::install-guide/index.txt[]
 
+include::rescue/index.txt[]
+
 = Настройка системы =
 
 include::system-management/index.txt[]
