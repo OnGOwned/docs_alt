@@ -22,4 +22,6 @@ include::rescue/index.txt[]
 
 include::system-management/index.txt[]
 
+include::packages/index.txt[]
+
 include::support/index.txt[]
