@@ -21,3 +21,7 @@ include::rescue/index.txt[]
 = Настройка системы =
 
 include::system-management/index.txt[]
+
+include::packages/index.txt[]
+
+include::support/index.txt[]
