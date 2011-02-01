@@ -1,0 +1,332 @@
+=  Обзор GNOME =
+
+==  Рабочий стол GNOME ==
+
+image::images/desktop-gnome.png[Рабочий стол GNOME,align="center"]
+
+На Рабочем столе GNOME есть три особых области. Сверху вниз:
+
+- Верхняя панель (серая полоса в самом верху);
+- Область рабочего стола (рабочая площадь в центре, занимающая большую часть
+  экрана);
+- Панель со списком окон (серая полоса в самом низу).
+
+=== Верхняя панель ===
+
+Эта панель протягивается через верхнюю часть экрана. Левая сторона содержит:
+
+- Меню «Приложения»;
+- Меню «Переход»;
+- Меню «Система»;
+- Значки программ для стандартного веб-браузера, почтовой программы, центра
+  управления, вызова справки. Пользователь может добавлять значки
+  дополнительных программ.
+
+Правая сторона панели содержит:
+
+//- Область уведомлений.
+//- Регулятор громкости и апплет настройки звука.
+//- Приложение Network Manager
+- Часы и календарь;
+- Переключатель окон.
+
+[TIP]
+==============================================================================
+Описание функций.
+
+Если вы остановите указатель мышки на меню или на значке, то появится короткое
+описание. Если вы нажмёте на один из значков, запустится приложение.
+==============================================================================
+
+==== Меню «Приложения» ====
+
+Это меню содержит список установленных приложений. Этот список обновляется при
+установке либо удалении программ. При нажатии на «Приложения» открывается
+список, состоящий из следующих разделов:
+
+- Аудио и видео
+- Графика
+- Игры
+- Интернет
+- Офис
+- Системные
+- Стандартные
+
+Другие обычные пункты, добавляемые с дополнительным программным обеспечением,
+включают:
+
+- Обучение
+- Другое
+- Программирование
+
+==== Меню «Переход» ====
+
+Это меню разделено на четыре подраздела.
+
+- Первый подраздел позволяет быстрой перейти к наиболее чато используемым
+  каталогам. Щелчок по пунтку меню открывает файловый менеджер Nautilus. 
+
+** «Домашняя папка», где по умолчанию хранятся ваши личные файлы.
+** «Рабочий стол», папка внутри вашей «Домашней папки», где хранятся файлы и
+   папки, отображаемые на рабочем столе.
+
+- Второй подраздел позволяет быстро перейти к:
+
+** «Компьютер», что позволит увидеть все файлы в компьютере и на подключенных
+   внешних носителях.
+
+- Третий подраздел содержит ссылки на инструменты, помогающие вам устанавливать
+  сетевые подключения.
+
+** «Сеть» позволяет просматривать сети, к которой подключён ваш компьютер, и
+   получать доступ к файлам и другим ресурсам, доступным в этих сетях.
+** «Соединиться с сервером» позволяет вам создать подключение к публичным или
+   локальным сетям.
+
+- Четвёртый подраздел позволяет быстро перейти к любому файлу в системе:
+
+** «Искать файлы» позволяет найти файлы, хранящиеся на вашем компьютере.
+** «Недавние документы» содержит список последних документов и папок, с
+   которыми вы работали.
+
+====  Меню «Система» ====
+
+Это меню разделено на три подраздела.
+
+- Первый предоставляет доступ к инструментам администрирования системы.
+
+** Меню «Параметры» содержит доступ к различным настройкам:
+
+*** «Обо мне» хранит информацию о вас, которую вы можете передать другим людям
+    в виде электронной визитки.
+*** «Внешний вид» позволяет настроить внешний вид вашего рабочего стола,
+    включая фоновую картинку.
+*** «Вспомогательные технологии» даёт возможность выбрать программы для
+    увеличения частей экрана или для прочтения вам содержимого экранов.
+*** «Bluetooth» позволяет настраивать Bluetooth-устройства для работы с вашим
+    компьютером.
+//*** «Цветовые профили» для управления, установки и создания цветовых профилей.
+//*** «Эффекты рабочего стола» включает или выключает специальные визуальные
+//    эффекты рабочего стола.
+*** «Управление файлами» влияет на представление вам файлов и папок.
+//*** «Метод ввода» позволяет вам выбрать методы для ввода языков, письменная
+//    система которых не использует алфавит, как, например, некоторые индийские
+//    или восточно-азиатские языки.
+*** «Клавиатура» позволяет задать тип клавиатуры, которая используется на
+    данном компьютере.
+*** «Комбинации клавиш клавиатуры» задают сочетания клавиш для выполнения
+    определённых заданий в определённых программах или в окружении рабочего
+    стола в целом.
+//*** «Учётные записи для обмена сообщениями и VoIP». Настройка учетных записей
+//    для клиента обмена мгновенными сообщениями Empathy и приложения VoIP
+*** «Monitors» задаёт разрешение и другие параметры вашего монитора.
+*** «Мышь» позволяет настроить кнопки и другие параметры вашей мыши.
+//*** «Network Authentication» - для настройки параметров Kerberos Network
+//    Authentication.
+*** «Сетевые соединения» отображает сетевые подключения компьютера и позвляет
+    их настрраивать.
+*** «Сетевая прокси-служба» позволяет вам настроить прокси-сервер для вашего
+    компьютера.
+//*** «Общий доступ к личным папкам» предоставлять доступ другим пользователям
+//    этого компьютера или пользователям других компьютеров по сети к своим
+//    документам и другим файлам.
+*** «Управление питанием» настраивает ваш компьютер на работу с различными
+    параметрами энергосбережения.
+*** «Предпочтительные приложения» дает вам возможность выбрать, какие
+    приложения вы предпочитаете использовать для конкретных задач.
+//*** «Remote Desktop» permits you or other people to access your computer's
+//    desktop from a remote location over a network connection.
+*** «Хранитель экрана» позволяет настроить заставку для рабочего стола.
+//*** «Seahorse-Preferences» allows you to set the cipher-key's properties.
+//*** «Обновление программ» определяет, как ваш компьютер должен обрабатывать
+//    обновления программ, когда они появляются.
+*** «Звук» дает возможность выбирать звуки, сопровождающие действия или события
+    в вашем компьютере.
+*** «Запускаемые приложения» выбирает приложения для автоматического запуска
+    при входе.
+
+///////////////////////////////////////////////////////////////////////////////
+** The Administration menu contains tools that affect the whole system and
+   require root access. These tools prompt for the root password when launched.
+*** «Установка и удаление программ» дает вам возможность изменять состав
+    программного обеспечения, установленного в системе.
+*** «Аутентификация» дает вам возможность управлять тем, как система проверяет
+    пользователей, пытающихся войти в систему.
+*** «Загрузчик» позволяет выбрать пункт для загрузки по умолчанию и время, в
+    течение которого отображается сообщение о загрузке.
+*** «Дата и время» позволяет изменить системные дату и время.
+*** «Межсетевой экран» позволяет настроить и сконфигурировать межсетевой экран в
+    вашем компьютере.
+*** «Язык» позволяет изменить язык по умолчанию.
+*** «Управление логическими томами» позволяет конфигурировать LVM в графической
+    среде.
+*** «Сеть» позволяет конфигурировать ваши сетевые подключения и устройства.
+*** «Управление устройствами сети» дает вам возможность осуществлять наблюдение и
+    управлять своими сетевыми устройствами.
+*** «Печать» позволяет настраивать принтеры.
+*** «SELinux Management» позволяет изменять настройки безопасности, защищающие
+    ваш компьютер.
+*** «Services» lets you decide which services will run when the system starts.
+*** «Update System» looks for software updates at your selected software sources.
+*** «Users and Groups» allows you to add or remove users and groups.
+///////////////////////////////////////////////////////////////////////////////
+
+- Второй подраздел предоставляет доступ к справочной информации о GNOME.
+
+** «Справка» содержит руководство по рабочей среде GNOME.
+** «О среде GNOME» показывает информацию об установленной среде GNOME.
+//** «О системе» предоставляет основную информацию о вашем компьютере, управление
+//   процессами и монитор ресурсов.
+
+- Третий подраздел содержит пункты для:
+
+** «Заблокировать экран» для запуска хранителя экрана. Для возобновления работы
+   необходим ввод пароля.
+** «Завершить сеанс пользователя» для завершения работы пользователя без
+   выключения компьютера.
+** «Выключиь» позволяет вам выбрать одно из действий: «Ждущий режим», «Спящий
+   режим», «Перезагрузить» или «Выключить» компьютер.
+
+[IMPORTANT]
+===================================================================================
+Пароль root
+
+Если ваш компьютер запрашивает пароль администратора (root), то это значит, что
+будут производиться важные системные настройки. Будьте предельно внимательны к
+выводимым вообщениям.
+===================================================================================
+
+///////////////////////////////////////////////////////////////////////////////////
+==== Application launchers ====
+
+The series of icons next to the menus provide quick access to commonly used
+applications. These icons are called launchers.
+
+image::images/icon-firefox.png[]
+
+The icon for Mozilla Firefox, a web browser
+
+image::images/icon-evolution.png[]
+
+To add more launchers to a panel, right-click on the panel and select Add to
+Panel. You can also add launchers that are in the Applications menu. Right
+click on the application you want to add and select Add this launcher to panel
+
+==== Область уведомлений ====
+
+The Notification area displays icons that alert you to new events taking place
+on your computer. For example, your email program might display an icon here to
+indicate the arrival of new email, or your printer software might display an
+icon here to indicate that a document is now printing.
+
+==== Регулятор громкости ====
+
+The volume control allows you to quickly change the overall volume of sound on
+your computer. Click the icon to show a slider, and then use the mouse to drag
+the slider to the desired volume. If you double-click the icon, a volume
+control window appears in which you can separately change the volume of
+different sound sources.
+
+==== Приложение Network Manager ====
+
+The Network Manager applet allows you to quickly connect and disconnect from
+available networks, both wired and wireless. Left click on the applet to see
+what connections are enabled or available. If you choose to connect to a
+connection, say a wireless connection in a coffee shop, you also have the
+option to save those settings and automatically connect when you return. Right
+click on the applet to enable and disable network devices or to edit or remove
+saved connections. See Глава 7, Подключение к Интернету for more information.
+
+==== The user switch area ====
+
+If you click the current username located next to the clock, a list of
+available users appears. To switch to a different user account, select the
+username.
+
+==== Часы и календарь ====
+
+To access the calendar, click the clock on the right hand side of the panel.
+When you double-click a date, the Evolution personal information manager opens.
+There is also a weather feature. Click the edit button to modify or add
+locations to be displayed.
+
+==== Область рабочего стола ====
+
+The default desktop area, or workspace, contains three icons:
+
+- the Computer icon. If you double-click this icon, a window appears that
+  contains available storage devices on the computer. These are also listed in
+  the Places → Computer menu.
+
+- the Home icon, which represents the location where all of the logged in
+  user's files, such as music, movies, and documents, are stored by default.
+  There is a different home directory for each user, and users cannot access
+  each other's home directories by default.
+
+- the Trash icon. Normally, when you choose to delete a file, it is not
+  permanently removed from your system. Instead, it is sent to the trash
+  folder, which you can access from this icon. To permanently remove a file from
+  your system, you must empty the trash. To empty the trash, right-click the icon
+  and select Empty Trash.
+
+[NOTE]
+=================================================================================
+Permanently deleting files
+
+To bypass the trash and permanently delete a file, hold down the Shift key when
+deleting the file.
+=================================================================================
+
+==== Использование рабочего стола ====
+
+Right-click on the desktop area for a menu of actions related to the desktop
+area. For example, the Change Desktop Background action lets you choose a
+different image or photograph to display on the desktop. Add program icons to
+your desktop by a left click on the program's icon and select Add this launcher
+to desktop.
+
+===  The window list panel ===
+
+This panel has three components:
+
+- Any open applications appear as button icons in the middle part of the window
+  list panel. It shows all application windows in use on the desktop workspace,
+  whether they are visible or hidden. A hidden window button appears with a
+  white background. The currently selected application window button has a gray
+  background, and is said to have focus. Usually, this is the application whose
+  window is on top of all the others on the screen. To switch from one running
+  application to another using the mouse, click on the desired application's
+  button in the panel.
+
+[NOTE]
+=============================================================================
+Используйте комбинацию клавиш Alt+Tab для переключения между открытыми окнами
+
+Holding down the Alt key and pressing the Tab key will open a small window
+containing icons of all of your open windows. Repeatedly pressing the Tab key
+cycles through the icons. Release both keys on your selection to pull it to the
+front
+=============================================================================
+
+- The Workspace Switcher is the group of squares situated on the far right.
+  They allow you to move between workspaces. Workspaces have long been a
+  feature of UNIX and Linux desktop environments. Each workspace provides a
+  separate desktop where applications can be organized, and a corresponding
+  window list panel. By default there are four workspaces available. To change
+  this number, right-click on the workspace switcher and choose preferences.
+
+[NOTE]
+=============================================================================
+Переключение между рабочими столами
+
+Используйте комбинацию клавиш Ctrl+Alt+Left Arrow or Ctrl+Alt+Right Arrow для
+переключения между рабочими столами.  Hold down the Ctrl and Alt keys and press
+either the Left Arrow key or Right Arrow key to cycle through the available
+workspaces on your system.
+=============================================================================
+
+- The Trash icon on the right end of the window list panel works the same way
+  as the Trash icon in the desktop area. If you delete a file, it is moved to
+  this location. A right click on the Trash icon brings up the options to Open
+  the folder, Empty Trash, Remove from Panel, and Lock to Panel.
+///////////////////////////////////////////////////////////////////////////////////
