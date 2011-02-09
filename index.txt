@@ -24,6 +24,8 @@ include::system-management/index.txt[]
 
 include::desktop-gnome/index.txt[]
 
+include::desktop-software/index.txt[]
+
 include::packages/index.txt[]
 
 include::support/index.txt[]
