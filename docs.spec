@@ -7,7 +7,7 @@
 %define variants docs-office-server docs-backup-server docs-desktop docs-school-master docs-school-junior docs-school-lite docs-school-server docs-kdesktop docs-school-terminal docs-school-newlite docs-centaurus
 
 Name: docs-%variant
-Version: 5.0
+Version: 6.0
 Release: alt1
 
 Summary: %Variant documentation
@@ -42,3 +42,5 @@ ln -s $(relative %_docsinstalldir %_documentationdir) %buildroot%_documentationd
 %_documentationdir
 
 %changelog
+* Thu Feb 17 2011 Artem Zolochevskiy <azol@altlinux.ru> 6.0-alt1
+- initial build
