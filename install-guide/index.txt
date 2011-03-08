@@ -1,5 +1,7 @@
 = Установка дистрибутива =
 
+include::backup-before-install.txt[]
+
 include::boot.txt[]
 
 include::alternative-install.txt[]
