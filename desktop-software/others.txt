@@ -3,3 +3,5 @@
 Ниже перечислены различные приложения, облегчающие работу с Linux.
 
 include::others/k3b.txt[]
+
+include::others/medit.txt[]
