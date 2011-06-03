@@ -6,3 +6,5 @@
 include::multimedia/kde.txt[KDE]
 
 include::multimedia/amarok.txt[Amarok]
+
+include::multimedia/kino.txt[Kino]
