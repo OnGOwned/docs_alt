@@ -28,8 +28,6 @@ include::desktop-software/index.txt[]
 
 include::packages/index.txt[]
 
-= Основы администрирования Linux =
-
 include::admin-basics/index.txt[]
 
 include::support/index.txt[]
