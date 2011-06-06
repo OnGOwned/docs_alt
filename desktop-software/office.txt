@@ -3,4 +3,6 @@
 Офисными приложениями традиционно называют комплекс программ для работы с
 текстами, таблицами, презентациями.
 
+include::office/libreoffice.txt[LibreOffice]
+
 include::office/openoffice.txt[OpenOffice.Org]
