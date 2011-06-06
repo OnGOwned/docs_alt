@@ -1,3 +1,5 @@
 = Основы администрирования Linux =
 
+include::sumode/index.txt[]
+
 include::syslog/index.txt[]
