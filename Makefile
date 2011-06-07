@@ -36,11 +36,11 @@ pdf: $(TOPLEVEL_DOC)
 	  $<
 
 install: all
-	$(INSTALL_DATA) -D $(HTMLPAGE) $(DESTDIR)$(docdir)/$(HTMLPAGE)
-	$(INSTALL) -d $(DESTDIR)$(docdir)/images/icons
-	$(INSTALL_DATA) -D docbook-xsl.css $(DESTDIR)$(docdir)/
-	$(INSTALL_DATA) -D images/*.png $(DESTDIR)$(docdir)/images/
-	$(INSTALL_DATA) -D images/icons/* $(DESTDIR)$(docdir)/images/icons/
+	$(INSTALL) -d $(DESTDIR)$(docdir)/images/icons/
+	$(INSTALL_DATA) $(HTMLPAGE) $(DESTDIR)$(docdir)/
+	$(INSTALL_DATA) docbook-xsl.css $(DESTDIR)$(docdir)/
+	$(INSTALL_DATA) images/*.png $(DESTDIR)$(docdir)/images/
+	$(INSTALL_DATA) images/icons/* $(DESTDIR)$(docdir)/images/icons/
 
 clean:
 	$(RM) -r index.xml $(HTMLPAGE) docbook-xsl.css images index.chunked index.fo index.pdf *~
