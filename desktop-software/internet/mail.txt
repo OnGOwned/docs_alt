@@ -28,6 +28,4 @@
 
 Ниже приводится краткая информация о наиболее популярных почтовых клиентах.
 
-include::mail/kmail.txt[KMail]
-
 include::mail/thunderbird.txt[Mozilla Thunderbird]
