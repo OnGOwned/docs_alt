@@ -28,4 +28,6 @@ include::desktop-software/index.txt[]
 
 include::packages/index.txt[]
 
+include::admin-basics/index.txt[]
+
 include::support/index.txt[]

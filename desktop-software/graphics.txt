@@ -1,0 +1,11 @@
+== Графика ==
+
+Linux предлагает приложения для работы как с растровой так и с векторной
+графикой. Ниже перечислены некоторые из наиболее используемых графических
+приложений.
+
+include::graphics/kde.txt[KDE]
+
+include::graphics/gimp.txt[GIMP]
+
+include::graphics/inkscape.txt[Inkscape]
