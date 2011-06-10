@@ -17,5 +17,3 @@ NetworkManager состоит из двух частей, взаимодейст
 позволяет управлять сетевыми соединениями.
 
 include::nm-applet.txt[]
-
-include::knetworkmanager.txt[]
