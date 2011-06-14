@@ -29,3 +29,5 @@
 include::mail/kmail.txt[KMail]
 
 include::mail/thunderbird.txt[Mozilla Thunderbird]
+
+include::mail/evolution.txt[Evolution]
