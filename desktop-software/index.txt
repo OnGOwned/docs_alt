@@ -20,3 +20,5 @@ include::office.txt[]
 include::graphics.txt[]
 
 include::multimedia.txt[]
+
+include::others.txt[]
