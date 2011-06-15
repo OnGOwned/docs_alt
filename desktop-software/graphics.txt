@@ -5,8 +5,6 @@ Linux предлагает приложения для работы как с р
 вы собираетесь решать, будь то простой просмотр графических файлов или,
 например, создание профессиональных макетов.
 
-include::graphics/kde.txt[KDE]
-
 include::graphics/gimp.txt[GIMP]
 
 include::graphics/inkscape.txt[Inkscape]
