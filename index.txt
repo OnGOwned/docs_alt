@@ -18,6 +18,8 @@ include::install-guide/index.txt[]
 
 include::rescue/index.txt[]
 
+include::system-start/index.txt[]
+
 = Настройка системы =
 
 include::system-management/index.txt[]
