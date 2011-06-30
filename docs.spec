@@ -8,7 +8,7 @@
 
 Name: docs-%variant
 Version: 6.0
-Release: alt1
+Release: alt2
 
 Summary: %Variant documentation
 License: %fdl
@@ -42,5 +42,29 @@ ln -s $(relative %_docsinstalldir %_documentationdir) %buildroot%_documentationd
 %_documentationdir
 
 %changelog
+* Thu Jun 30 2011 Alexandr Boltris <alex@altlinux.org> 6.0-alt2
+- add initial admin-basics section
+- add initial backup-before-install subsection to install guide
+- add system-start part
+- admin-basics: add initial sumode section
+- alternative-install: rewrite create flash section
+- backup-before-install: add Windows 7 to resize warning
+- desktop-software: add initial Audacious description
+- desktop-software: add initial Evolution description based on KMail
+- desktop-software: add initial Kino description
+- desktop-software: add initial LibreOffice description
+- desktop-software: add initial Pidgin description
+- desktop-software: add initial brasero description
+- desktop-software: firefox actualisation
+- desktop-software: improve Pidgin description
+- install-guide: add package selection to pkg step
+- packages: add forgotten apt-get section
+- packages: apt-get adaptation
+- packages: fix using of application/package term
+- system-management: add initial network section
+- system-start: add initial system-login-gdm
+- some rephrasing / typo and formatting fixes
+- update screenshots
+
 * Thu Feb 17 2011 Artem Zolochevskiy <azol@altlinux.ru> 6.0-alt1
 - initial build
