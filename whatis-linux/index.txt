@@ -101,4 +101,4 @@ DB2, Informix, Sybase, SAP ERP, Lotus Domino.
 +
 ** Форум: http://forum.altlinux.org/
 ** Списки рассылки: http://lists.altlinux.org/
-** ALT Linux Wiki: http://www.altlinux.org/
+** ALT Linux Wiki: http://www.altlinux.org/.
