@@ -2,5 +2,4 @@
 
 include::system-boot.txt[Загрузка системы]
 
-include::system-login-gdm.txt[Регистрация в системе GDM]
-
+include::system-login-dm.txt[Регистрация в системе]
