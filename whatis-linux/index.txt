@@ -21,7 +21,7 @@ General Public License (далее -- GPL). Лицензия GNU не тольк
 отличие Linux от свободных ОС BSD (FreeBSD, NetBSD, OpenBSD), фрагменты которых
 вошли в семейство Microsoft Windows и даже стали основой Mac OS X. Linux
 включает в себя многие разработки BSD, но его компиляторы и системные библиотеки
-разработаны в рамках http://www.gnu.org/home.ru.html[проекта GNU].
+разработаны в рамках проекта GNU (http://www.gnu.org/home.ru.html).
 
 [float]
 === Разработка Linux ===
