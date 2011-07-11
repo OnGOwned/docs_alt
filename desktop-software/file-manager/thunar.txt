@@ -20,4 +20,4 @@ image::images/thunar.png[Файловый менеджер Thunar]
 текущей папке.
 
 За более подробным описанием основных функций и возможностей обращайтесь к
-file:///usr/share/doc/Thunar/html/ru/index.html[руководству по Thunar].
+руководству по Thunar (file:///usr/share/doc/Thunar/html/ru/index.html).
