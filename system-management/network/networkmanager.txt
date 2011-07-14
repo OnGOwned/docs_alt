@@ -17,6 +17,6 @@ image::images/nm-applet-help.png[Меню nm-applet]
 
 //knetworkmanager
 
-Для управления настройками сети в (DISTRO) используется виджет «Управление сетью».
+Для управления настройками сети в (DISTRO) используется виджет *Управление сетью*.
 
 include::knetworkmanager.txt[]
