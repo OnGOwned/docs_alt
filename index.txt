@@ -20,15 +20,15 @@ include::rescue/index.txt[]
 
 include::system-start/index.txt[]
 
-= Настройка системы =
-
-include::system-management/index.txt[]
-
 include::desktop-gnome/index.txt[]
 
 include::desktop-xfce/index.txt[]
 
 include::desktop-software/index.txt[]
+
+= Настройка системы =
+
+include::system-management/index.txt[]
 
 include::packages/index.txt[]
 
