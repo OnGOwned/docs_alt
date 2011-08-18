@@ -8,7 +8,7 @@
 
 Name: docs-%variant
 Version: 6.0
-Release: alt2
+Release: alt3
 
 Summary: %Variant documentation
 License: %fdl
@@ -42,6 +42,9 @@ ln -s $(relative %_docsinstalldir %_documentationdir) %buildroot%_documentationd
 %_documentationdir
 
 %changelog
+* Thu Aug 18 2011 Alexandr Boltris <alex@altlinux.org> 6.0-alt3
+- update
+
 * Thu Jun 30 2011 Alexandr Boltris <alex@altlinux.org> 6.0-alt2
 - add initial admin-basics section
 - add initial backup-before-install subsection to install guide
