@@ -3,4 +3,3 @@
 include::system-boot.txt[Загрузка системы]
 
 include::system-login-dm.txt[Регистрация в системе]
-
