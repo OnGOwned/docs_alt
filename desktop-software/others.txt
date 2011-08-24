@@ -1,7 +1,5 @@
 == Прочие приложения ==
 
-Ниже перечислены приложения, облегчающие работу с Linux.
-
 include::others/k3b.txt[]
 
 include::others/brasero.txt[]
