@@ -8,7 +8,7 @@
 
 Name: docs-%variant
 Version: 6.0
-Release: alt4
+Release: alt6
 
 Summary: %Variant documentation
 License: %fdl
@@ -42,6 +42,9 @@ ln -s $(relative %_docsinstalldir %_documentationdir) %buildroot%_documentationd
 %_documentationdir
 
 %changelog
+* Wed Nov 9 2011 Artem Zolochevskiy <azol@altlinux.ru> 6.0-alt6
+- update
+
 * Fri Aug 19 2011 Alexandr Boltris <alex@altlinux.org> 6.0-alt4
 - update
 
