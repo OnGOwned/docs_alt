@@ -1,6 +1,6 @@
 = (DISTRO) =
 ALT Docs Team <docs@packages.altlinux.org>
-v6.0-alt7, Nov 2011
+v6.0-alt8, Dec 2011
 
 = Введение =
 
