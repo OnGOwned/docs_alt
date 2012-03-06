@@ -38,6 +38,8 @@ include::desktop-gnome/index.txt[]
 
 include::desktop-xfce/index.txt[]
 
+include::desktop-lxde/index.txt[]
+
 include::desktop-software/index.txt[]
 
 = Настройка системы =
