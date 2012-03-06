@@ -5,6 +5,7 @@
 include::gui/acc-kde.txt[]
 include::gui/acc-gnome.txt[]
 include::gui/acc-xfce.txt[]
+include::gui/acc-lxde.txt[]
 * из командной строки: командой `acc`.
 
 При запуске необходимо ввести пароль администратора системы (root).
