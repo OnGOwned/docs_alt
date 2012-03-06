@@ -10,3 +10,5 @@
 управление принтерами и пр.
 
 include::thunar.txt[Обзор файлового менеджера Thunar]
+
+include::pcmanfm.txt[Обзор файлового менеджера PCManFM]
