@@ -12,3 +12,5 @@ include::multimedia/kino.txt[Kino]
 include::multimedia/audacious.txt[Audacious]
 
 include::multimedia/audacity.txt[Audacity]
+
+include::multimedia/deadbeef.txt[DeaDBeeF]
