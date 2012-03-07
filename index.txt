@@ -38,6 +38,8 @@ include::system-server/index.txt[]
 
 include::services/index.txt[]
 
+include::maint/index.txt[]
+
 include::system-start/index.txt[]
 
 include::desktop-gnome/index.txt[]
