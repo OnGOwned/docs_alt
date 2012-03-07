@@ -32,6 +32,8 @@ include::install-guide/index.txt[]
 
 include::rescue/index.txt[]
 
+include::firstrun/index.txt[]
+
 include::system-start/index.txt[]
 
 include::desktop-gnome/index.txt[]
