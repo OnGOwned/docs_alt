@@ -26,3 +26,5 @@ HTML-страниц по протоколу HTTP и HTTPS (открытие ст
 include::web/konqueror.txt[Konqueror]
 
 include::web/firefox.txt[Mozilla Firefox]
+
+include::web/midori.txt[Midori]
