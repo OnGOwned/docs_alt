@@ -12,3 +12,5 @@ include::graphics/gimp.txt[GIMP]
 include::graphics/inkscape.txt[Inkscape]
 
 include::graphics/gnomepaint.txt[Gnome Paint]
+
+include::others/viewnior.txt[]
