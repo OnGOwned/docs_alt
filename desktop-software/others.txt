@@ -6,4 +6,6 @@ include::others/brasero.txt[]
 
 include::others/medit.txt[]
 
+include::others/viewnior.txt[]
+
 include::others/leafpad.txt[]
