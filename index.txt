@@ -42,6 +42,8 @@ include::desktop-lxde/index.txt[]
 
 include::desktop-software/index.txt[]
 
+include::school-software/index.txt[]
+
 = Настройка системы =
 
 include::system-management/index.txt[]
