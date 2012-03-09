@@ -8,3 +8,5 @@ include::office/libreoffice.txt[LibreOffice]
 include::office/openoffice.txt[OpenOffice.Org]
 
 include::office/abiword.txt[AbiWord]
+
+include::gnumeric.txt[Gnumeric]
