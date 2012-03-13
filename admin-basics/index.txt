@@ -1,5 +1,9 @@
 = Основы администрирования Linux =
 
+include::terminal/new/index.txt[]
+
 include::sumode/index.txt[]
 
 include::syslog/index.txt[]
+
+include::docs/index.txt[]
