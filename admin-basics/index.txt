@@ -6,4 +6,4 @@ include::sumode/index.txt[]
 
 include::syslog/index.txt[]
 
-include::docs/index.txt[]
+include::documentation/index.txt[]
