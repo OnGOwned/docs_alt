@@ -28,3 +28,5 @@
 достигнутых результатов обучения.
 
 include::trainingsoft/gcompis.txt[]
+
+include::trainingsoft/maxima.txt[]
