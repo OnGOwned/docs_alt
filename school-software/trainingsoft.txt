@@ -30,3 +30,5 @@
 include::trainingsoft/gcompis.txt[]
 
 include::trainingsoft/maxima.txt[]
+
+include::trainingsoft/scilab.txt[]
