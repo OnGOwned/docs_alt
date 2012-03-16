@@ -5,3 +5,5 @@
 мышления у детей.
 
 include::programming/gradesprogramming.txt[]
+
+include::programming/geany.txt[]
