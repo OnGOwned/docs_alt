@@ -22,3 +22,5 @@ Cпецифические и предметные учебные програм�
 include::moodle.txt[]
 
 include::trainingsoft.txt[]
+
+include::programming.txt[]
