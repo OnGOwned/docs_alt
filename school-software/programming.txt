@@ -4,6 +4,8 @@
 программирования, предназначенные для развития операционного (алгоритмического)
 мышления у детей.
 
+include::programming/kturtle.txt[]
+
 include::programming/gradesprogramming.txt[]
 
 include::programming/geany.txt[]
