@@ -27,6 +27,8 @@
 * проведение контрольной работы -- этап промежуточного и итогового контроля
 достигнутых результатов обучения.
 
+include::trainingsoft/kde-edu.txt[]
+
 include::trainingsoft/gcompis.txt[]
 
 include::trainingsoft/maxima.txt[]
