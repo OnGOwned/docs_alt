@@ -1,5 +1,3 @@
-= Обзор GNOME =
-
 == Рабочий стол GNOME ==
 
 image::images/desktop-gnome.png[Рабочий стол GNOME,align="center"]
