@@ -46,8 +46,6 @@ include::desktop-gnome/index.txt[]
 
 include::desktop-software/index.txt[]
 
-= Настройка системы =
-
 include::system-management/index.txt[]
 
 include::packages/index.txt[]
