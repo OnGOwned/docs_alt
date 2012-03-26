@@ -3,4 +3,5 @@
 Офисными приложениями традиционно называют пакет программ для работы с
 текстами, таблицами и презентациями.
 
-include::office/libreoffice.txt[LibreOffice]
+
+include::libreoffice/index.txt[]
