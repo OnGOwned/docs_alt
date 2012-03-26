@@ -35,6 +35,6 @@
 избавляет вас от необходимости устанавливать отдельный IM-клиент для каждой
 сети.
 
-include::im/kopete.txt[Kopete]
+include::kopete/index.txt[]
 
-include::im/pidgin.txt[Pidgin]
+include::pidgin/index.txt[]

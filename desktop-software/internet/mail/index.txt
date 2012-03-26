@@ -45,10 +45,10 @@
 использования почтового сервера локальной сети).
 
 
-include::mail/kmail.txt[KMail]
+include::kmail/index.txt[]
 
-include::mail/thunderbird.txt[Mozilla Thunderbird]
+include::thunderbird/index.txt[]
 
-include::mail/evolution.txt[Evolution]
+include::evolution/index.txt[]
 
-include::mail/clawsmail.txt[Claws Mail]
+include::clawsmail/index.txt[]
