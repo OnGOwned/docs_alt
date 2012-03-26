@@ -9,8 +9,8 @@
 таких как работа с сетью (через FTP, NFS и т.п.), резервное копирование,
 управление принтерами и пр.
 
-include::thunar.txt[Обзор файлового менеджера Thunar]
+include::thunar/index.txt[]
 
-include::pcmanfm.txt[Обзор файлового менеджера PCManFM]
+include::pcmanfm/index.txt[]
 
-include::dolphin.txt[Обзор файлового менеджера Dolphin]
+include::dolphin/index.txt[]

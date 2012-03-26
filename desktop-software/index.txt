@@ -17,7 +17,7 @@ include::internet.txt[]
 
 include::office.txt[]
 
-include::file-manager.txt[]
+include::file-manager/index.txt[]
 
 include::graphics.txt[]
 
