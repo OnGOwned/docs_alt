@@ -19,7 +19,7 @@ include::office.txt[]
 
 include::file-manager/index.txt[]
 
-include::graphics.txt[]
+include::graphics/index.txt[]
 
 include::multimedia.txt[]
 

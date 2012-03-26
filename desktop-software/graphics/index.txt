@@ -5,12 +5,12 @@ Linux предлагает приложения для работы c растр
 вы собираетесь решать, будь то простой просмотр графических файлов или,
 например, создание профессиональных макетов.
 
-include::graphics/kde.txt[KDE]
+include::kde/index.txt[]
 
-include::graphics/gimp.txt[GIMP]
+include::gimp/index.txt[]
 
-include::graphics/inkscape.txt[Inkscape]
+include::inkscape/index.txt[]
 
-include::graphics/gnomepaint.txt[Gnome Paint]
+include::gnomepaint/index.txt[]
 
-include::others/viewnior.txt[]
+include::viewnior/index.txt[]
