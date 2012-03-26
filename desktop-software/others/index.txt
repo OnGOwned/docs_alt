@@ -1,0 +1,9 @@
+== Прочие приложения ==
+
+include::k3b/index.txt[]
+
+include::brasero/index.txt[]
+
+include::medit/index.txt[]
+
+include::leafpad/index.txt[]

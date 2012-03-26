@@ -1,9 +1,0 @@
-== Прочие приложения ==
-
-include::others/k3b.txt[]
-
-include::others/brasero.txt[]
-
-include::others/medit.txt[]
-
-include::others/leafpad.txt[]

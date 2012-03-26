@@ -23,4 +23,4 @@ include::graphics/index.txt[]
 
 include::multimedia.txt[]
 
-include::others.txt[]
+include::others/index.txt[]
