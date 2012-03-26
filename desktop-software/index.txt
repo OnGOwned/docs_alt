@@ -21,6 +21,6 @@ include::file-manager/index.txt[]
 
 include::graphics/index.txt[]
 
-include::multimedia.txt[]
+include::multimedia/index.txt[]
 
 include::others/index.txt[]

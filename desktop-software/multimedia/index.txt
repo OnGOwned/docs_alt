@@ -3,14 +3,14 @@
 Для работы с мультимедиа файлами (музыка, видео и т.п.) вы можете
 воспользоваться предназначенными для этого приложениями.
 
-include::multimedia/kde.txt[KDE]
+include::kde/index.txt[]
 
-include::multimedia/amarok.txt[Amarok]
+include::amarok/index.txt[]
 
-include::multimedia/kino.txt[Kino]
+include::kino/index.txt[]
 
-include::multimedia/audacious.txt[Audacious]
+include::audacious/index.txt[]
 
-include::multimedia/audacity.txt[Audacity]
+include::audacity/index.txt[]
 
-include::multimedia/deadbeef.txt[DeaDBeeF]
+include::deadbeef/index.txt[]
