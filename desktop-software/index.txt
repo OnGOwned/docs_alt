@@ -15,7 +15,7 @@ Linux содержит огромное число приложений (про�
 
 include::internet/index.txt[]
 
-include::office.txt[]
+include::office/index.txt[]
 
 include::file-manager/index.txt[]
 

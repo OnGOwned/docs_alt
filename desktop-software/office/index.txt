@@ -3,10 +3,10 @@
 Офисными приложениями традиционно называют пакет программ для работы с
 текстами, таблицами и презентациями.
 
-include::office/libreoffice.txt[LibreOffice]
+include::libreoffice/index.txt[]
 
-include::office/openoffice.txt[OpenOffice.Org]
+include::openoffice/index.txt[]
 
-include::office/abiword.txt[AbiWord]
+include::abiword/index.txt[]
 
-include::office/gnumeric.txt[Gnumeric]
+include::gnumeric/index.txt[]
