@@ -3,6 +3,6 @@
 Для работы с мультимедиа файлами (музыка, видео и т.п.) вы можете
 воспользоваться предназначенными для этого приложениями.
 
-include::multimedia/kino.txt[Kino]
+include::kino/index.txt[]
 
-include::multimedia/audacious.txt[Audacious]
+include::audacious/index.txt[]

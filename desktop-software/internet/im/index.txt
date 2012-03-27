@@ -35,4 +35,4 @@
 избавляет вас от необходимости устанавливать отдельный IM-клиент для каждой
 сети.
 
-include::im/pidgin.txt[Pidgin]
+include::pidgin/index.txt[]

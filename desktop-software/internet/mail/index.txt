@@ -45,4 +45,4 @@
 использования почтового сервера локальной сети).
 
 
-include::mail/evolution.txt[Evolution]
+include::evolution/index.txt[]
