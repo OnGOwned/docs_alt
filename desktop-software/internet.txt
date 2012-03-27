@@ -1,5 +1,0 @@
-include::internet/web.txt[Веб-навигация]
-
-include::internet/mail.txt[Электронная почта]
-
-include::internet/im.txt[Обмен мгновенными сообщениями]

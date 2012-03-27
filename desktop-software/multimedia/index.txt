@@ -1,0 +1,16 @@
+== Мультимедиа ==
+
+Для работы с мультимедиа файлами (музыка, видео и т.п.) вы можете
+воспользоваться предназначенными для этого приложениями.
+
+include::kde/index.txt[]
+
+include::amarok/index.txt[]
+
+include::kino/index.txt[]
+
+include::audacious/index.txt[]
+
+include::audacity/index.txt[]
+
+include::deadbeef/index.txt[]

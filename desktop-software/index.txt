@@ -13,14 +13,14 @@ Linux содержит огромное число приложений (про�
 программа отсутствует в системе, то вы можете доустановить её с диска или из
 огромного банка программного обеспечения ALT Linux.
 
-include::internet.txt[]
+include::internet/index.txt[]
 
-include::office.txt[]
+include::office/index.txt[]
 
-include::file-manager.txt[]
+include::file-manager/index.txt[]
 
-include::graphics.txt[]
+include::graphics/index.txt[]
 
-include::multimedia.txt[]
+include::multimedia/index.txt[]
 
-include::others.txt[]
+include::others/index.txt[]
