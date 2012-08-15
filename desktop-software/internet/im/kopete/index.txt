@@ -2,9 +2,9 @@
 
 Kopete -- мультипротокольная программа-клиент для обмена мгновенными
 сообщениями, позволяющая одновременно подключиться к нескольким сетям.
-Поддерживает наиболее популярные протоколы: AIM, Bonjour, Facebook,
-Gadu-Gadu, ICQ, XMPP, MSN, .NET Messenger Service, Novell GroupWise, QQ,
-SMS, Skype (с использованием официального клиента), Xfire, Yahoo! Messenger.
+Поддерживает наиболее популярные протоколы: AIM, Bonjour, Gadu-Gadu, GroupWise,
+ICQ, IRC, Jabber, Meanwhile, QQ, SMS, Skype (с использованием официального
+клиента), Testbed, WLM Mesenger, WinPopup, Yahoo.
 
 image::images/kopete.png[Окно программы Kopete]
 
