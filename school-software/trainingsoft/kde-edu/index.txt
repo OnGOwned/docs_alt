@@ -22,8 +22,6 @@
 
 * image:images/klettres.png[] KLettres -- программа для изучения алфавита и простейших слогов.
 
-* image:images/kverbos.png[] KVerbos -- программа для изучения форм глаголов испанского языка.
-
 * image:images/parley.png[] Parley -- тренировка словарного запаса.
 
 .Математика:
@@ -49,7 +47,7 @@ KAlgebra не обязательно знать Mathml.
 
 * image:images/kturtle.png[] KTurtle -- образовательная среда программирования.
 
-* image:images/kwordquiz.png[] !KWordQuiz -- программа для изучения новой лексики.
+* image:images/kwordquiz.png[] KWordQuiz -- программа для изучения новой лексики.
 
 .Наука:
 
