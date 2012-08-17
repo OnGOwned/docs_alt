@@ -23,6 +23,8 @@ HTML-страниц по протоколу HTTP и HTTPS (открытие ст
 личные предпочтения. В любом случае, рассмотрите основные предложения
 и выберите наиболее удобный для вас веб-навигатор.
 
+include::chromium/index.txt[]
+
 include::konqueror/index.txt[]
 
 include::firefox/index.txt[]
