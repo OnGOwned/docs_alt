@@ -2,9 +2,23 @@
 
 Pidgin -- мультипротокольная программа-клиент для мгновенного обмена
 сообщениями, позволяющая одновременно подключиться к нескольким сетям.
-Поддерживает наиболее популярные протоколы: AIM, ICQ, Google Talk,
-Jabber/XMPP, MSN Messenger, Yahoo!, Bonjour, Gadu-Gadu, IRC, Novell
-GroupWise Messenger, QQ, Lotus Sametime, SILC, SIMPLE, MySpaceIM и Zephyr.
+Поддерживает наиболее популярные протоколы:
+AIM,
+Bonjour,
+Facebook (XMPP),
+Gadu-Gadu,
+Google-общение,
+GroupWise,
+ICQ,
+IRC,
+MSN,
+MXit,
+MySpaceIM,
+SIMPLE,
+XMPP,
+Yahoo,
+Yahoo JAPAN и
+Zephyr.
 
 image::images/pidgin.png[Окно программы Pidgin]
 
