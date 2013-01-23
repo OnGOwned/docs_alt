@@ -30,6 +30,8 @@ include::acc/alterator-pkg-add-repo.txt[]
 
 include::synaptic/synaptic-add-repo.txt[]
 
+include::manually/manually-add-repo.txt[]
+
 [IMPORTANT]
 После выбора и добавления репозиториев необходимо получить сведения
 о находящихся в них пакетах. В противном случае, список доступных для установки

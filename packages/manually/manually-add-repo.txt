@@ -1,0 +1,21 @@
+Есть возможность добавить нужные репозитории вручную.
+Для этого вам понадобится отредактировать в любом текстовом редакторе файлы из папки `/etc/apt/sources.list.d/`. Необходимы права администратора для изменения этих файлов.
+Все файлы в этой папке имеют определенный формат. Например в файле all.list может содержаться такая информация:
+----------------------------------------------------------------------------------------
+# ftp.altlinux.org (ALT Linux, Moscow)
+# ALT Linux Platform 6
+rpm [p6] ftp://192.168.7.2/ALTLinux/p6/branch/ x86_64 classic
+rpm [p6] ftp://192.168.7.2/ALTLinux/p6/branch/ noarch classic
+rpm [p6] ftp://192.168.7.2/ALTLinux/p6/branch/ x86_64-i586 classic
+# rpm ftp://192.168.7.2/ALTLinux/p6/branch/ x86_32 classic
+# rpm ftp://192.168.7.2/ALTLinux/Sisyphus/ x86_64 classic
+# rpm [p6] http://ftp.altlinux.org/pub/distributions/ALTLinux/p6/branch/ x86_64 classic
+# rpm [p6] http://ftp.altlinux.org/pub/distributions/ALTLinux/p6/branch/ noarch classic
+# rpm [p6] rsync://ftp.altlinux.org/ALTLinux/p6/branch/ x86_64 classic
+# rpm rsync://ftp.altlinux.org/ALTLinux/p6/branch/ x86_32 classic
+# rpm [p6] rsync://ftp.altlinux.org/ALTLinux/p6/branch/ noarch classic
+----------------------------------------------------------------------------------------
+По сути, каждая строчка соответсвует некому репозиторию. В примере из текста выше видно, что перед 3 строчками нету решётки. Именно эти строчки и будут выбранными репозиториями. Если вы не хотите пользоваться этими репозиториями, просто допишите решётку перед ними. Если вы хотите использовать другие репозитории, то вы можете дописать их вниз этого или любого другого файла.
+
+После добавления репозиториев обновите информацию о них:
+Запустите терминал и выполните команду `apt-get update`. Необходимы права администратора для выполнения этой команды.
