@@ -1,7 +1,11 @@
 = Обзор комплекса рабочая станция =
 
-== Вход в систему ==
+== Загрузка системы ==
 
+//include::system-boot.txt[Загрузка системы]
 include::system-boot.txt[Загрузка системы]
 
-include::system-login-dm.txt[Регистрация в системе]
+== Вход в систему ==
+
+include::system-login-dm.txt[Вход в систему]
+//include::system-login-dm.txt[Регистрация в системе]

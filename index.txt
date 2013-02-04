@@ -1,6 +1,6 @@
 = (DISTRO) =
 ALT Docs Team <docs@packages.altlinux.org>
-v6.0-alt8, Dec 2011
+v7.0-alt1, Jan 2013
 
 = Введение =
 
@@ -22,36 +22,60 @@ v6.0-alt8, Dec 2011
 
 = Что такое (DISTRO) =
 
-include::whatis-centaurus/index.txt[]
+include::whatis-centaurus/index.txt[Введение]
 
 include::whatis-linux/index.txt[]
 
 include::whatis-alt/index.txt[]
 
-include::install-guide/index.txt[]
+include::install-guide/index.txt[Установка]
 
 include::rescue/index.txt[]
 
-include::firstrun/index.txt[]
+////
+	todo: 
+		-need to improve Gnome screens when 7.0 released.
+		 (can't do it now coz loading screen says it's 6.9)
+		-may be add browser->chromium.
+////
 
-include::system-server/index.txt[]
-
-include::services/index.txt[]
-
-include::maint/index.txt[]
-
-include::system-start/index.txt[]
+include::system-start/index.txt[Рабочая станция]
 
 include::desktop-gnome/index.txt[]
 
-include::desktop-software/index.txt[]
+include::desktop-software/index.txt[Обзор приложений]
 
 include::system-management/index.txt[]
 
-include::packages/index.txt[]
+include::packages/index.txt[Установка приложений]
 
-include::integration/index.txt[]
+//Server
+////
+	todo: 
+		-??add link to admin basics
+		-update screenshots when higer version avaliable.
+////
 
-include::admin-basics/index.txt[]
+include::firstrun/index.txt[Сервер]
 
-include::support/index.txt[]
+include::system-server/index.txt[]
+
+include::services/index.txt[Настройка некоторых возможностей сервера]
+
+include::maint/index.txt[]
+
+include::packages/apt-get.txt[Установка приложений 2.0]
+
+//include::integration/index.txt[Интеграция совмещенных систем]
+
+//Admin Basics
+////
+	todo:
+		-??command line commands
+		-driver saga
+		-??prnter settings
+////
+
+include::admin-basics/index.txt[Основы администрирования]
+
+include::support/index.txt[Технич. поддержка]
