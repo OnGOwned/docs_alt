@@ -41,7 +41,7 @@ include::rescue/index.txt[]
 
 include::system-start/index.txt[Рабочая станция]
 
-include::desktop-gnome/index.txt[]
+include::desktop-mate/index.txt[Рабочий стол MATE]
 
 include::desktop-software/index.txt[Обзор приложений]
 
