@@ -6,6 +6,8 @@ include::sumode/index.txt[Режим суперпользователя]
 
 include::command-line.txt[Знакомство с командной строкой]
 
+include::user-management/index.txt[Управление пользователями]
+
 include::syslog/index.txt[Что происходит в системе]
 
 include::driver-saga.txt[Работа с оборудованием в Linux. «Сага о Драйверах»]
