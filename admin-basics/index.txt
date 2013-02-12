@@ -1,8 +1,12 @@
 = Основы администрирования Linux =
 
+include::os-principles/index.txt[Общие принципы работы ОС]
+
 include::sumode/index.txt[Режим суперпользователя]
 
 include::command-line.txt[Знакомство с командной строкой]
+
+include::user-management/index.txt[Управление пользователями]
 
 include::syslog/index.txt[Что происходит в системе]
 
