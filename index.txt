@@ -30,13 +30,6 @@ include::install-guide/index.txt[Установка]
 
 include::rescue/index.txt[]
 
-////
-	todo: 
-		-need to improve Gnome screens when 7.0 released.
-		 (can't do it now coz loading screen says it's 6.9)
-		-may be add browser->chromium.
-////
-
 include::system-start/index.txt[Рабочая станция]
 
 include::desktop-mate/index.txt[Рабочий стол MATE]
@@ -46,13 +39,6 @@ include::desktop-software/index.txt[Обзор приложений]
 include::system-management/index.txt[]
 
 include::packages/index.txt[Установка приложений]
-
-//Server
-////
-	todo: 
-		-??add link to admin basics
-		-update screenshots when higer version avaliable.
-////
 
 include::firstrun/index.txt[Сервер]
 
@@ -65,14 +51,6 @@ include::maint/index.txt[]
 include::packages/apt-get.txt[Установка приложений 2.0]
 
 //include::integration/index.txt[Интеграция совмещенных систем]
-
-//Admin Basics
-////
-	todo:
-		-??command line commands
-		-driver saga
-		-??prnter settings
-////
 
 include::admin-basics/index.txt[Основы администрирования]
 
